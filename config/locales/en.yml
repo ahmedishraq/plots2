@@ -265,7 +265,6 @@ en:
     stats:
       about_this_page: |
         <h4>About this page</h4>
-
         <p>Public Lab is built on the contributions of community members, and this website represents our collective open source work.</p>
       contributors_statistics: "Contributor Statistics"
       research_notes_posted_by_contributors: "%{note_count} research notes have been
@@ -925,6 +924,7 @@ en:
     wikiRich:
       new_wiki: "New Wiki Page"
     questionRich:
+      ask:"Ask"
       consider_sharing: "Consider sharing:"
       where_you_are_working: "Where you are working"
   home_controller:
